@@ -1,5 +1,5 @@
 # Eloquent JavaScript - 3rd Edition (E-book)
-Projects and exercises from "*Eloquent JavaScript - 3rd Edition*" (E-book): [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+Projects, exercises and examples from "*Eloquent JavaScript - 3rd Edition*" (E-book): [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
 
 ## Contents
 
